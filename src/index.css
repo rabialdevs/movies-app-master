@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.display-movies{
+  display: flex;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  
+
+}
+.display-movies h3{
+  background-color: antiquewhite;
+  color: black;
+  width: 40%;
+}
